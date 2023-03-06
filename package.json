@@ -16,6 +16,7 @@
     "@vue/cli-shared-utils": "^5.0.8",
     "commander": "^10.0.0",
     "fs-extra": "^11.1.0",
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.4",
+    "javascript-stringify": "^2.1.0"
   }
 }
