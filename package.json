@@ -1,5 +1,5 @@
 {
-  "name": "ghx-cli",
+  "name": "@gaohongxiang/g-cli",
   "version": "1.0.0",
   "description": "一个神奇的脚手架工具",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Wanan",
+  "author": "gaohongxiang",
   "license": "ISC",
   "dependencies": {
     "@vue/cli-shared-utils": "^5.0.8",
