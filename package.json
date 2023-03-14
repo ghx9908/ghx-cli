@@ -26,6 +26,7 @@
     "ora": "^5.0.0",
     "download-git-repo": "^3.0.2"
   },
+  "private": "false",
   "repository": {
     "type": "git",
     "url": "git@github.com:Gao-Hongxiang/ghx-cli.git"
