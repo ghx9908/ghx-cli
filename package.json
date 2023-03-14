@@ -1,5 +1,5 @@
 {
-  "name": "ghx-cli",
+  "name": "@ghx_i/cli",
   "version": "2.0.1",
   "description": "一个神奇的脚手架工具",
   "main": "index.js",
