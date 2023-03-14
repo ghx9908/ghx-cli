@@ -1,6 +1,6 @@
 {
-  "name": "@gaohongxiang/ghx-cli",
-  "version": "1.0.0",
+  "name": "ghx-cli",
+  "version": "2.0.1",
   "description": "一个神奇的脚手架工具",
   "main": "index.js",
   "bin": {
@@ -26,7 +26,6 @@
     "ora": "^5.0.0",
     "download-git-repo": "^3.0.2"
   },
-  "private": "false",
   "repository": {
     "type": "git",
     "url": "git@github.com:Gao-Hongxiang/ghx-cli.git"
