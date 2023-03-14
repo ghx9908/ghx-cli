@@ -15,6 +15,14 @@ program
     console.log(chalk.bold.blue(`Ghx CLI V1.0.0`))
     create(name, options)
   })
+program
+  .command("pull [project-name]")
+  .description("pull my origin project")
+  .option("-f,--force", "overwrite target directory if it exists")
+  .action((name, cmd) => {
+    // 拉取远程项目
+    require("../lib/pull/index")(name, cmd)
+  })
 
 program.on("--help", () => {
   console.log()
